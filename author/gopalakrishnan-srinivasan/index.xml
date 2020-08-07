@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>Deep Spiking Convolutional Neural Network Trained With Unsupervised Spike-Timing-Dependent Plasticity</title>
-      <link>https://chan8972.github.io/publication/2018-tcds/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://chan8972.github.io/publication/2018-tcds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Enabling Spike-Based Backpropagation for Training Deep Neural Network Architectures</title>
       <link>https://chan8972.github.io/publication/2020-frontier/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -29,9 +21,17 @@
     </item>
     
     <item>
+      <title>Deep Spiking Convolutional Neural Network Trained With Unsupervised Spike-Timing-Dependent Plasticity</title>
+      <link>https://chan8972.github.io/publication/2018-tcds/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://chan8972.github.io/publication/2018-tcds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Training deep spiking convolutional neural networks with stdp-based unsupervised pre-training followed by supervised fine-tuning</title>
       <link>https://chan8972.github.io/publication/2018-frontier/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://chan8972.github.io/publication/2018-frontier/</guid>
       <description></description>
     </item>
