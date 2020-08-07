@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gopalakrishnan Srinivasan | Chankyu&#39;s Website</title>
+    <link>https://chan8972.github.io/author/gopalakrishnan-srinivasan/</link>
+      <atom:link href="https://chan8972.github.io/author/gopalakrishnan-srinivasan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gopalakrishnan Srinivasan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chankyu Lee</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chan8972.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gopalakrishnan Srinivasan</title>
+      <link>https://chan8972.github.io/author/gopalakrishnan-srinivasan/</link>
+    </image>
+    
+    <item>
+      <title>Deep Spiking Convolutional Neural Network Trained With Unsupervised Spike-Timing-Dependent Plasticity</title>
+      <link>https://chan8972.github.io/publication/2018-tcds/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://chan8972.github.io/publication/2018-tcds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Spike-Based Backpropagation for Training Deep Neural Network Architectures</title>
+      <link>https://chan8972.github.io/publication/2020-frontier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://chan8972.github.io/publication/2020-frontier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training deep spiking convolutional neural networks with stdp-based unsupervised pre-training followed by supervised fine-tuning</title>
+      <link>https://chan8972.github.io/publication/2018-frontier/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://chan8972.github.io/publication/2018-frontier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
