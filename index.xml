@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>Enabling Spike-Based Backpropagation for Training Deep Neural Network Architectures</title>
-      <link>https://chan8972.github.io/publication/2020-frontier/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://chan8972.github.io/publication/2020-frontier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks</title>
       <link>https://chan8972.github.io/publication/2020-eccv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -33,6 +25,14 @@
       <link>https://chan8972.github.io/publication/2020-arxiv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://chan8972.github.io/publication/2020-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The interplay between movement, morphology and dispersal in Tetrahymena ciliates</title>
+      <link>https://chan8972.github.io/publication/2020-frontier/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://chan8972.github.io/publication/2020-frontier/</guid>
       <description></description>
     </item>
     

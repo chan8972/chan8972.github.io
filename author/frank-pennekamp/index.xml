@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank Pennekamp | Chankyu&#39;s Website</title>
+    <link>https://chan8972.github.io/author/frank-pennekamp/</link>
+      <atom:link href="https://chan8972.github.io/author/frank-pennekamp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frank Pennekamp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Chankyu Lee</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chan8972.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Frank Pennekamp</title>
+      <link>https://chan8972.github.io/author/frank-pennekamp/</link>
+    </image>
+    
+    <item>
+      <title>The interplay between movement, morphology and dispersal in Tetrahymena ciliates</title>
+      <link>https://chan8972.github.io/publication/2020-frontier/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://chan8972.github.io/publication/2020-frontier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
