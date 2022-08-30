@@ -1,155 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://chan8972.github.io/publication-type/2/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/adarsh-kosta/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/authors/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/chankyu-lee/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/publication/2021-arxiv/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/kaushik-roy.-arxiv-preprint-2021/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/publication_types/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/publication/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/alex-zihao-zhu/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/kaushik-roy.-in-proceedings-of-the-european-conference-on-computer-vision-eccv-2020/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/kenneth-chaney/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/kostas-daniilidis/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/publication/2020-eccv/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/publication/2020-frontier/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/gopalakrishnan-srinivasan/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/kaushik-roy-equal-contribution.-arxiv-preprint-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/kaushik-roy-equal-contribution.-frontiers-in-neuroscience-neuromorphic-engineering-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/priyadarshini-panda/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/sayeed-shafayet-chowdhury/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/syed-shakib-sarwar/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/publication/2020-arxiv/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/kaushik-roy.-frontiers-in-neuroscience-neuromorphic-engineering-2018/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/publication/2018-frontier/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/publication/2018-tcds/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/kaushik-roy.-ieee-transactions-on-cognitive-and-developmental-systems-tcds-2018/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/author/chankyu-lee/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://chan8972.github.io/tags/</loc>
   </url>
-  
 </urlset>
